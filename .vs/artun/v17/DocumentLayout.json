@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artun\\source\\repos\\artun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6299367-AABD-4743-9347-76433A432B21}|artun\\artun.csproj|c:\\users\\artun\\source\\repos\\artun\\artun\\artun.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6299367-AABD-4743-9347-76433A432B21}|artun\\artun.csproj|solutionrelative:artun\\artun.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6299367-AABD-4743-9347-76433A432B21}|artun\\artun.csproj|c:\\users\\artun\\source\\repos\\artun\\artun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6299367-AABD-4743-9347-76433A432B21}|artun\\artun.csproj|solutionrelative:artun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artun\\OneDrive\\Masa\u00FCst\u00FC\\annotation\\annotate.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "annotate.py",
+              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Masa\u00FCst\u00FC\\annotation\\annotate.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\annotation\\annotate.py",
+              "ToolTip": "C:\\Users\\artun\\OneDrive\\Masa\u00FCst\u00FC\\annotation\\annotate.py",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\annotation\\annotate.py",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAADUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-17T10:50:05.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "artun.csproj",
+              "DocumentMoniker": "C:\\Users\\artun\\source\\repos\\artun\\artun\\artun.csproj",
+              "RelativeDocumentMoniker": "artun\\artun.csproj",
+              "ToolTip": "C:\\Users\\artun\\source\\repos\\artun\\artun\\artun.csproj",
+              "RelativeToolTip": "artun\\artun.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T07:38:51.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artun\\source\\repos\\artun\\artun\\Program.cs",
+              "RelativeDocumentMoniker": "artun\\Program.cs",
+              "ToolTip": "C:\\Users\\artun\\source\\repos\\artun\\artun\\Program.cs",
+              "RelativeToolTip": "artun\\Program.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAowK0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:06:15.689Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

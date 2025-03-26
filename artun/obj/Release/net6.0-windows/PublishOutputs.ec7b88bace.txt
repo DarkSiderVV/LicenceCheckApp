@@ -1,0 +1,5 @@
+C:\Users\artun\OneDrive\Masaüstü\deneme3\artun.exe
+C:\Users\artun\OneDrive\Masaüstü\deneme3\artun.dll
+C:\Users\artun\OneDrive\Masaüstü\deneme3\artun.deps.json
+C:\Users\artun\OneDrive\Masaüstü\deneme3\artun.runtimeconfig.json
+C:\Users\artun\OneDrive\Masaüstü\deneme3\artun.pdb

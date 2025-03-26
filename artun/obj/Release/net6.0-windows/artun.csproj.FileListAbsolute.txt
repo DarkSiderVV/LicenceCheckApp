@@ -1,0 +1,16 @@
+C:\Users\artun\source\repos\artun\artun\bin\Release\net6.0-windows\artun.exe
+C:\Users\artun\source\repos\artun\artun\bin\Release\net6.0-windows\artun.deps.json
+C:\Users\artun\source\repos\artun\artun\bin\Release\net6.0-windows\artun.runtimeconfig.json
+C:\Users\artun\source\repos\artun\artun\bin\Release\net6.0-windows\artun.dll
+C:\Users\artun\source\repos\artun\artun\bin\Release\net6.0-windows\artun.pdb
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\Interop.IWshRuntimeLibrary.dll
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\artun.csproj.ResolveComReference.cache
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\artun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\artun.AssemblyInfoInputs.cache
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\artun.AssemblyInfo.cs
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\artun.csproj.CoreCompileInputs.cache
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\artun.dll
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\refint\artun.dll
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\artun.pdb
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\artun.genruntimeconfig.cache
+C:\Users\artun\source\repos\artun\artun\obj\Release\net6.0-windows\ref\artun.dll
